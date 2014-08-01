@@ -21,3 +21,35 @@ body {
 img {
 	pointer-events: none;
 }
+
+.blue {
+    background-color: #178acc;
+    color: #fff;
+}
+
+.blue h1, h2, h3, h4, h5, h6 {
+    color: #fff !important;
+}
+
+.white {
+    background-color: #fff;
+    color: #178acc;
+}
+
+.white h1, h2, h3, h4, h5, h6 {
+    color: #178acc ;
+}
+
+footer {
+	margin: 0;
+	padding: 1em;
+	height: auto;
+    background-image: url('../img/1.png'); 
+    background-position: bottom center;
+    background-attachment: fixed;
+    background-repeat: none;
+    color: #fff;
+    -moz-box-shadow: inset 0 0 10px #000000;
+    -webkit-box-shadow: inset 0 0 10px #000000;
+    box-shadow: inset 0 0 10px #000000;
+}
