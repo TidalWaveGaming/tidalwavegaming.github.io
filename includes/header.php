@@ -1,7 +1,7 @@
     <!-- STYLESHEETS // ALL MINIFIED AS OF 8/2/14 -->
-    <link href="http://tidalwavegaming.com/css/scrolling-nav.css" rel="stylesheet" type="text/css" />
-    <link href="http://tidalwavegaming.com/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-    <link href="http://tidalwavegaming.com/css/custom.css" rel="stylesheet" type="text/css" />
+    <link href="../css/scrolling-nav.css" rel="stylesheet" type="text/css" />
+    <link href="../css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="../css/custom.css" rel="stylesheet" type="text/css" />
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <!-- META DATA -->
     <meta charset="utf-8">
