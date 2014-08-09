@@ -4,20 +4,7 @@
     <title>TWG // Home</title>
   </head>
   <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
-    <?php include("includes/header.php"); require("steamapi.php"); 
-        $id = $_GET['id'];
-        if(empty($id)) {
-                $id = "jahshua_talbot";
-        }
-        $steam = new SteamAPI($id);
-
-        $id = $_GET['id'];
-        if(empty($id2)) {
-                $id2 = "thatsright1234";
-        }
-        $steam2 = new SteamAPI($id2);
-
-    ?>
+    ████████████████████████████████████████████████████████████████████████████████████ <!-- REDACTED FROM GITHUB VERSION -->
     <style type="text/css">
         .border-bottom2{background-color: #b94a48;width: 20%;height: 3px;margin-left: auto;margin-right: auto;margin-top: 5px;margin-bottom: 5px}.light-grey{color: #828282 !important}.no-border{border: none;outline: none}
     </style>
@@ -78,7 +65,7 @@
                         <h3 class="panel-title">Jamplifier<br /><small style="color:#fff;">Owner</small></h3>
                       </div>
                       <div class="panel-body">
-                        <?php echo "<img class=\"avatar left\" src=\"{$steam->getAvatarMedium()}\" />"; ?><br />
+                        ██████████████████████████████████████████████████████████████████
                         <div class="border-bottom2 center">&nbsp</div>
                         <p class="light-grey">Jamplifier (Josh) is our fearless owner and leader. He pays the bills, plays a lot of Starcraft 2 along with managing the community. <br /></p>
                         <a href="http://tidalwavegaming.com/forums/index.php?/user/1-jamplifier/" alt="PM"><i class="fa fa-envelope-square fa-2x"></i></a>
@@ -93,7 +80,7 @@
                         <h3 class="panel-title">robgio1234<br /><small style="color:#fff;">Admin</small></h3>
                       </div>
                       <div class="panel-body">
-                        <?php echo "<img class=\"avatar left\" src=\"{$steam2->getAvatarMedium()}\" />"; ?><br />
+                        ██████████████████████████████████████████████████████████████████
                         <div class="border-bottom2 center">&nbsp</div>
                         <p class="light-grey">Rob is a general administrator. He manages the sites and forums, on top of that, Rob makes brief TS appearences. Currently best Starcraft player in TWG.</p>
                         <a href="http://tidalwavegaming.com/forums/index.php?/user/3-robgio1234/" alt="PM"><i class="fa fa-envelope-square fa-2x"></i></a>
@@ -115,6 +102,6 @@
             </div>
         </div>
     </section>
-    <?php include('includes/footer.php'); ?>
+    █████████████████████████████████
   </body>
 </html>  
